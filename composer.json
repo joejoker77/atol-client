@@ -10,12 +10,6 @@
         }
     ],
     "minimum-stability": "stable",
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/joejoker77/atol-client.git"
-        }
-    ],
     "require": {
         "php": "^8.4",
         "jms/serializer": "^3.4",
